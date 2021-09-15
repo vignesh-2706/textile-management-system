@@ -40,7 +40,7 @@
     <div class="card">
       <h2>HOME</h2>
       <h5></h5>
-      <img src="https://www.wittmann.at/wp-content/uploads/2014/09/940x520_Stoffe_Header.jpg" alt="textile photo"style="height:200px;width:500px">
+      <img src="https://media.istockphoto.com/photos/women-clothes-hanging-on-hangers-clothing-rails-fashion-design-picture-id916092484?k=20&m=916092484&s=612x612&w=0&h=2aTLAucj_-qbbfhBiJEXfdiY3-k0gx0el8OrKFpi3O8=" alt="textile photo"style="height:200px;width:500px">
 	  <img src="https://www.materialsource.co.uk/uploads/articles/c4/c4ec80be84301e193527df0b91185ffe63b91c11_1100.jpg" alt="textile photo"style="height:200px;width:500px">
       <img src="https://www.fabloktex.com/wp-content/uploads/2018/06/fablok_fabric.jpg" alt="textile photo"style="height:200px;width:430px">
 	  <p><h3><i>Our Company,<h3></p>
