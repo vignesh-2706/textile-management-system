@@ -14,7 +14,7 @@
 <body class="wow fadeIn" data-wow-duration="2s" data-wow-delay=".6s">
 
 <div class="header" style="border-radius:10px;">
-  <h1>Next Door Textile Company</h1>
+  <h1>Next Door Textile Company Ltd</h1>
   <p><i>Our Cloth Knows the Artistic Neighbour</i></p>
   
   <img src="https://previews.123rf.com/images/tabuday/tabuday1907/tabuday190700019/127918709-seamless-woodblock-printed-indigo-dye-ethnic-floral-border-traditional-oriental-ornament-of-india-fl.jpg" alt="textile photo"style="height:90px;width:200px">
